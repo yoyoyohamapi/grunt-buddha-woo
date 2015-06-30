@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Grunt 插件编写测试",
   "repository": "https://github.com/yoyoyohamapi/grunt-buddha-woo",
+  "homepage":  "http://yoyoyohamapi.github.io/grunt-buddha-woo",
   "author": {
     "name": "woo",
     "email": "472285740@163.com",
